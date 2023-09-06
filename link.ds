@@ -1,0 +1,9 @@
+linkNodes(ref=".nodes")
+alpha(getResults)=true
+
+.nodes(
+	linkA="DS://localhost:2000"
+	linkAAlt="DS://moon.stvorec.host"
+  linkB="DS://seerverhost:3000"
+	linkBAlt="DS://pluto.stvorec.host"
+)
